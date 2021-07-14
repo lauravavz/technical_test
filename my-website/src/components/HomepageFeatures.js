@@ -4,18 +4,18 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Turn your raw data into a gold mine',
+    Svg: require('../../static/img/undraw_programmer_imem.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
+        Lettria was designed from the ground up to be easily installed and
         used to get your website up and running quickly.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Analyze your documents to extract key information',
+    Svg: require('../../static/img/undraw_proud_coder_7ain.svg').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -24,8 +24,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Structure your customer data',
+    Svg: require('../../static/img/undraw_code_inspection_bdl7.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can

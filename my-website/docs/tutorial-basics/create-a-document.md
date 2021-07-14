@@ -2,13 +2,11 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Creating a project group
 
-Documents are **groups of pages** connected through:
+The goal of creating a project group is to be able to share it with colleagues and collaborate on it.
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+To do this, in the menu bar, click on **“Groups”** then **“New group”**.
 
 ## Create your first Doc
 
@@ -20,36 +18,4 @@ Create a markdown file at `docs/hello.md`:
 This is my **first Docusaurus document**!
 ```
 
-A new document is now available at `http://localhost:3000/docs/hello`.
 
-## Configure the Sidebar
-
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
-
-Add metadatas to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```diff title="sidebars.js"
-module.exports = {
-  tutorialSidebar: [
-    {
-      type: 'category',
-      label: 'Tutorial',
--     items: [...],
-+     items: ['hello'],
-    },
-  ],
-};
-```
