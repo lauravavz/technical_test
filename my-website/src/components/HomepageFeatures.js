@@ -18,8 +18,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_proud_coder_7ain.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Thanks to its optimized performance and easy integration, the Lettria API will help you analyze your raw data to bring out the key elements.
       </>
     ),
   },
@@ -28,8 +27,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_code_inspection_bdl7.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        The Lettria API efficiently and rigorously analyzes all points of contact with your customers (email, support, telephone). 
       </>
     ),
   },

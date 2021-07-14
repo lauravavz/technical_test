@@ -9,7 +9,7 @@ tags: [sentiment, analyze, video, nlp]
 ---
 
 <video width="800" height="400" controls
-  source src="/static/video/tutorial.mov" type="video/mp4"
+  source src="/static/video/sentimental_analysis.mp4" type="video/mp4"
 />
 
 ## Sentimental Analysis with Lettria NLP API
