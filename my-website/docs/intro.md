@@ -4,18 +4,16 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Lettria in less than 5 minutes**.
-
-😎 Skill level : Basic
+Let's discover **Lettria in less than 5 minutes** 🕑
 
 ## Getting Started
 
-Get started by **getting your API key**.
+Get started by **getting your API key** 🔑
 
 To be able to make requests on our API you need an API key.
 You can manage your subscriptions and get a free key directly from your **Dashboard**.
 
-## Install Lettria
+## Installing Lettria
 
 Lettria provides you with a Python package to facilitate the use of its API.
 You can install the latest version via pip, a package manager for Python.
@@ -24,7 +22,7 @@ You can install the latest version via pip, a package manager for Python.
 pip install lettria
 ```
 
-## Make an API request with Lettria
+## Making an API request with Lettria
 
 See how to make a request to the Lettria API and save the return in a file so that we can reuse it at will.
 First, import lettria and initialize the NLP object which will allow you to make requests by passing it a valid API key.
